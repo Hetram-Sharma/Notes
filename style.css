@@ -4,12 +4,20 @@
 }
 
 body{
-    background-color: rgb(190, 203, 164);
+    background-color: rgb(129, 148, 163);
+    background-image: url("image1.png");
+    background-size: 1250px 620px;
+    background-repeat: no-repeat;
+}
+#naive{
+    align-content: space-around;
 }
 .main{
     background-color: white;
     height: 90vh;
+    border-width: 2cm;
     width: 80%;
-    border-radius: 30px;
+    border-radius: 20px;
+    
 
 }
